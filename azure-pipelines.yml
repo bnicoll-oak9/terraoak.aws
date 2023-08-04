@@ -13,4 +13,4 @@ steps:
     environmentName: 'env-bgnicollf74f045d7-0JOW7Ugg'
     qualityGate: 'None'
     pollingTimeoutSec: '300'
-    oak9APIEndpoint: https://devapi.oak9.cloud
+    oak9APIEndpoint: http://localhost:500
