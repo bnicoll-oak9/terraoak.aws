@@ -6,7 +6,7 @@ pool:
   name: 'brandon'
 
 steps:
-- task: oak9 Analysis Task
+- task: oak9
   inputs:
     serviceEndpoint: 'oak9 Integration Testing'
     projectName: 'proj-bgnicollf74f045d7-26'
