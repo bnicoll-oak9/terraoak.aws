@@ -14,3 +14,4 @@ steps:
     qualityGate: 'None'
     pollingTimeoutSec: '300'
     oak9APIEndpoint: http://localhost:5000
+    
