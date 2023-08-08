@@ -3,7 +3,6 @@ trigger:
 
 pool:
   vmImage: ubuntu-latest
-  name: 'brandon'
 
 steps:
 - task: oak9 Analysis Task@2.0.126
