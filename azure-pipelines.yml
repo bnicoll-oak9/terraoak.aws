@@ -7,8 +7,9 @@ pool:
 steps:
 - task: oak9 Analysis Task@2.0.129
   inputs:
-    serviceEndpoint: 'oak9 prod'
-    projectName: 'proj-oak9dev-240'
-    environmentName: 'env-oak9dev-d7caLhck'
+    serviceEndpoint: 'oak9 dev'
+    projectName: 'proj-bgnicollf74f045d7-26'
+    environmentName: 'env-bgnicollf74f045d7-0JOW7Ugg'
     qualityGate: 'None'
     pollingTimeoutSec: '300'
+    oak9APIEndpoint: https://devapi.oak9.cloud
